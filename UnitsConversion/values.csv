@@ -1,0 +1,6 @@
+﻿Temperature,Celcius,Fahrenheit,Celcius*1.8+32;
+Temperature,Fahrenheit,Celcius,Celcius*1.8+32;
+Temperature,Celcius,Kelvin,Celcius*1.8+32;
+Temperature,Kelvin,Celcius,Celcius*1.8+32;
+Temperature,Kelvin,Fahrenheit,Celcius*1.8+32;
+Temperature,Fahrenheit,Kelvin,Celcius*1.8+32;

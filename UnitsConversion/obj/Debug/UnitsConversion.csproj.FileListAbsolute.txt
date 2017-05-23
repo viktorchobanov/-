@@ -1,0 +1,14 @@
+C:\Users\jmill\Desktop\UnitsConversion\bin\Debug\UnitsConversion.exe.config
+C:\Users\jmill\Desktop\UnitsConversion\bin\Debug\UnitsConversion.exe
+C:\Users\jmill\Desktop\UnitsConversion\bin\Debug\UnitsConversion.pdb
+C:\Users\jmill\Desktop\UnitsConversion\obj\Debug\UnitsConversion.csprojResolveAssemblyReference.cache
+C:\Users\jmill\Desktop\UnitsConversion\obj\Debug\App.g.cs
+C:\Users\jmill\Desktop\UnitsConversion\obj\Debug\UnitsConversion_MarkupCompile.cache
+C:\Users\jmill\Desktop\UnitsConversion\obj\Debug\UnitsConversion_MarkupCompile.lref
+C:\Users\jmill\Desktop\UnitsConversion\obj\Debug\UnitsConversion.g.resources
+C:\Users\jmill\Desktop\UnitsConversion\obj\Debug\UnitsConversion.Properties.Resources.resources
+C:\Users\jmill\Desktop\UnitsConversion\obj\Debug\UnitsConversion.csproj.GenerateResource.Cache
+C:\Users\jmill\Desktop\UnitsConversion\obj\Debug\UnitsConversion.exe
+C:\Users\jmill\Desktop\UnitsConversion\obj\Debug\UnitsConversion.pdb
+C:\Users\jmill\Desktop\UnitsConversion\obj\Debug\MainWindow.g.cs
+C:\Users\jmill\Desktop\UnitsConversion\obj\Debug\MainWindow.baml
